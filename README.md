@@ -1,4 +1,4 @@
-# java-portfolio-projects
+# job portal site
 This repository showcases two Java-based projects: a desktop file compressor using Java Swing and a basic Spring Boot job portal web app with MySQL integration 
 Java Projects – File Compressor & Job Portal
 This repository contains two beginner-friendly Java projects:
